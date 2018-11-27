@@ -1,7 +1,12 @@
 # Data structures and algorithms.
 
-Will be adding better notes and hopefully pseudo code for every algorithm.
+My notes and resources while studying data structures and algorithms.
 
-https://www.cs.usfca.edu/~galles/visualization/Heap.html Useful visualization tool.
+I'll be adding better notes and hopefully pseudo code for every algorithm.
+
+Useful visualization tool: https://www.cs.usfca.edu/~galles/visualization/Heap.html 
+
+Big-O introduction: https://www.youtube.com/watch?v=__vX2sjlpXU&list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv
+Big O analysis and cheatsheet: http://bigocheatsheet.com/ 
 
 If GitHub doesn't render the notebook use https://nbviewer.jupyter.org/. I will eventually just set up README's with links in each directory of type of algorithm.
