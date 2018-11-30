@@ -3,6 +3,7 @@
 My notes and resources while studying data structures and algorithms.
 
 I'll be adding better notes and hopefully pseudo code for every algorithm.
+http://www.algorithmist.com/index.php/Main_Page
 
 Useful visualization tool: https://www.cs.usfca.edu/~galles/visualization/Heap.html 
 
