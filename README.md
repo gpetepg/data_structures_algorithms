@@ -9,5 +9,6 @@ Useful visualization tool: https://www.cs.usfca.edu/~galles/visualization/Heap.h
 
 Big-O introduction: https://www.youtube.com/watch?v=__vX2sjlpXU&list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv
 Big O analysis and cheatsheet: http://bigocheatsheet.com/ 
+selection algorithms: https://en.wikipedia.org/wiki/Selection_algorithm
 
 If GitHub doesn't render the notebook use https://nbviewer.jupyter.org/. I will eventually just set up README's with links in each directory of type of algorithm.
