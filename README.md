@@ -14,7 +14,7 @@ http://www.algorithmist.com/index.php/Main_Page
 
 If GitHub doesn't render the notebook use https://nbviewer.jupyter.org/. I'll eventually just set up README's with links in each directory of type of algorithm.
   
-# Algorithms types considered:
+# Algorithms types considered below:
  - Simple recursive algorithms
  - Backtracking algorithms
  - Divide and conquer algorithms
