@@ -23,7 +23,7 @@ If GitHub doesn't render the notebook use https://nbviewer.jupyter.org/. I'll ev
  - Branch and bound algorithms
  - Brute force algorithms
  - Randomized algorithms
---- 
+
 # Simple recursive algorithms:
  - Solves the base cases directly
  - Recurs with a simple subproblem
