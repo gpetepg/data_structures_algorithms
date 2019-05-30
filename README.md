@@ -1,12 +1,12 @@
-# Data structures and algorithms.
+# Data structures and algorithms
 My notes and resources while studying data structures and algorithms.
 I'll be adding better notes and hopefully pseudo code for every algorithm.
 
-# Practice.
+# Practice:
  - https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
  - https://www.interviewcake.com/ (Paid)
 
-# Types of algorithms
+# Types of algorithms:
 References and resources:
 - https://quizlet.com/396658039/big-o-quick-reference-flash-cards/
 - https://www.cis.upenn.edu/~matuszek/cit594-2003/Lectures/35-algorithm-types.ppt
@@ -40,7 +40,7 @@ Examples:
  - To count the number of elements in a list:
  - To test if a value occurs in a list.
 
-# Backtracking algorithms
+# Backtracking algorithms:
 
 These algorithms are based on a depth-first recursive search:
  - Test to see if a solution has been found, and if so, returns it otherwise
@@ -62,7 +62,7 @@ color (Country n)
      - If successful, return success
    - Return failure (if loop exits)
   
-# Divide and conquer algorithms
+# Divide and conquer algorithms:
 
 Method that divides the problem into smaller parts and then solving those parts. Think binary search.
 
@@ -83,7 +83,7 @@ Mergesort:
  - Cut the array in half, and mergesort each half
  - Combine the two sorted arrays into a single sorted array by merging them
 
-# Dynamic programming algorithms
+# Dynamic programming algorithms:
 
 Method that builds up to a solution using previously found sub-solutions. Definitely one of the more advanced techniques, but extremely powerful and applicable.
  - Pros: finds the optimal solution to many problems in polynomial time (whereas brute force would take exponential)
@@ -101,7 +101,7 @@ Dynamic programming is gernally used for optimization problems.
    
 This differes from Divide and Conquer, where subproblems genrally need not overlap.
 
-# Greedy algorithms
+# Greedy algorithms:
 
 Method that chooses the best option at the current time, without any consideration for the future.
  - Pros: quick, simple, may obtain the best solution, or get kinda close
@@ -144,7 +144,7 @@ A better solution would be to use two `7 Kron` coins and a `1 Kron` coin.
 
 The greedy algorithm results in a solution but not in an optimal solution.
 
-# Branch and bound algorithms
+# Branch and bound algorithms:
 
 Branch and bound algorithms are generally used for optimization problems.
  - As the algorithm progresses, a tree of subproblems is formed
@@ -185,7 +185,7 @@ Improving brute force algorithms:
    - Heuristic: A "rule of thumb" that helps you decide which possibilities to look at first
    - Optimization: In this case, a way to eliminate certain possibilites without fully exploring them
  
-# Randomized algorithms
+# Randomized algorithms:
 
 A randomized algorithm uses a random number at least once during the computation to make a decision:
  - Example: In quicksort, using a random number to choose a pivot
