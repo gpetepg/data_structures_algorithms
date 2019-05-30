@@ -6,6 +6,11 @@ I'll be adding better notes and hopefully pseudo code for every algorithm.
  - https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
  - https://www.interviewcake.com/ (Paid)
 
+Books:
+ - [Cracking the coding interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=dp_ob_title_bk)
+ - [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574/ref=sr_1_3?crid=3NVOK3O9CYNYC&keywords=data+structures+and+algorithms+in+python&qid=1559237339&s=books&sprefix=data+str%2Cstripbooks%2C194&sr=1-3)
+ - [Elements of Programming Interviews: Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=sxts_sxwds-bia?crid=1HBT6SMY3KZUG&keywords=elements+of+programming+interviews+python&pd_rd_i=1537713949&pd_rd_r=6942b138-fb0a-41e3-93ca-846e3055422e&pd_rd_w=vtUHN&pd_rd_wg=iDUAb&pf_rd_p=f0479f98-a32d-45cd-9c12-7aaced42b1ec&pf_rd_r=FRB4RYZGFHY1FTFKW7DQ&qid=1559237358&s=books&sprefix=elements+of%2Cstripbooks%2C196)
+
 # Types of algorithms:
 References and resources:
 - https://quizlet.com/396658039/big-o-quick-reference-flash-cards/
