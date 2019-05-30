@@ -4,6 +4,7 @@ I'll be adding better notes and hopefully pseudo code for every algorithm.
 
 # Types of algorithms
 References and resources:
+- https://quizlet.com/396658039/big-o-quick-reference-flash-cards/
 - https://www.cis.upenn.edu/~matuszek/cit594-2003/Lectures/35-algorithm-types.ppt
 - Halim, Steven, and Felix Halim. Competitive Programming: The New Lower Bound of Programming Contests. Lulu, 2013.
   (https://www.quora.com/What-are-the-different-types-of-Algorithms)
