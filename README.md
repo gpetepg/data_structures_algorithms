@@ -2,6 +2,10 @@
 My notes and resources while studying data structures and algorithms.
 I'll be adding better notes and hopefully pseudo code for every algorithm.
 
+# Practice.
+ - https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+ - https://www.interviewcake.com/ (Paid)
+
 # Types of algorithms
 References and resources:
 - https://quizlet.com/396658039/big-o-quick-reference-flash-cards/
